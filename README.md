@@ -6,10 +6,10 @@ https://karimashour.github.io/foods/
 
 # tools :
 - html
-- tailwind css
-- react.js
+- css
+- javascript
 
 
 
 # features
-- Architecture landing page using Tailwind CSS and React JS
+- restaurant website landing page
